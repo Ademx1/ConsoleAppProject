@@ -1,0 +1,12 @@
+/Users/ademmac/Projects/WorkPlace/WorkPlace.Core/bin/Debug/net6.0/WorkPlace.Core.deps.json
+/Users/ademmac/Projects/WorkPlace/WorkPlace.Core/bin/Debug/net6.0/WorkPlace.Core.dll
+/Users/ademmac/Projects/WorkPlace/WorkPlace.Core/bin/Debug/net6.0/WorkPlace.Core.pdb
+/Users/ademmac/Projects/WorkPlace/WorkPlace.Core/obj/Debug/net6.0/WorkPlace.Core.csproj.AssemblyReference.cache
+/Users/ademmac/Projects/WorkPlace/WorkPlace.Core/obj/Debug/net6.0/WorkPlace.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ademmac/Projects/WorkPlace/WorkPlace.Core/obj/Debug/net6.0/WorkPlace.Core.AssemblyInfoInputs.cache
+/Users/ademmac/Projects/WorkPlace/WorkPlace.Core/obj/Debug/net6.0/WorkPlace.Core.AssemblyInfo.cs
+/Users/ademmac/Projects/WorkPlace/WorkPlace.Core/obj/Debug/net6.0/WorkPlace.Core.csproj.CoreCompileInputs.cache
+/Users/ademmac/Projects/WorkPlace/WorkPlace.Core/obj/Debug/net6.0/WorkPlace.Core.dll
+/Users/ademmac/Projects/WorkPlace/WorkPlace.Core/obj/Debug/net6.0/refint/WorkPlace.Core.dll
+/Users/ademmac/Projects/WorkPlace/WorkPlace.Core/obj/Debug/net6.0/WorkPlace.Core.pdb
+/Users/ademmac/Projects/WorkPlace/WorkPlace.Core/obj/Debug/net6.0/ref/WorkPlace.Core.dll

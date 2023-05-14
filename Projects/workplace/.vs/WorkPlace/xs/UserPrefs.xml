@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkPlace.Core/Entities/Department.cs">
+    <Files>
+      <File FileName="WorkPlace.Core/Interfaces/IEntity.cs" Line="5" Column="2" />
+      <File FileName="WorkPlace.Core/Entities/Company.cs" Line="20" Column="2" />
+      <File FileName="WorkPlace.Core/Entities/Employee.cs" Line="28" Column="1" />
+      <File FileName="WorkPlace.Core/Entities/Department.cs" Line="17" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkPlace" expanded="True">
+            <Node name="WorkPlace.Core" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Employee.cs" selected="True" />
+              </Node>
+              <Node name="Interfaces" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
