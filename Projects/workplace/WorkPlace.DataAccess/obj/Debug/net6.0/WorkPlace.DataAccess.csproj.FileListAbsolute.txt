@@ -1,0 +1,5 @@
+/Users/ademmac/Projects/WorkPlace/WorkPlace.DataAccess/obj/Debug/net6.0/WorkPlace.DataAccess.csproj.AssemblyReference.cache
+/Users/ademmac/Projects/WorkPlace/WorkPlace.DataAccess/obj/Debug/net6.0/WorkPlace.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ademmac/Projects/WorkPlace/WorkPlace.DataAccess/obj/Debug/net6.0/WorkPlace.DataAccess.AssemblyInfoInputs.cache
+/Users/ademmac/Projects/WorkPlace/WorkPlace.DataAccess/obj/Debug/net6.0/WorkPlace.DataAccess.AssemblyInfo.cs
+/Users/ademmac/Projects/WorkPlace/WorkPlace.DataAccess/obj/Debug/net6.0/WorkPlace.DataAccess.csproj.CoreCompileInputs.cache
